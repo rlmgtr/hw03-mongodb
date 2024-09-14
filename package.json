@@ -30,16 +30,16 @@
     "eslint-plugin-promise": "5.2.0",
     "nodemon": "2.0.15"
   },
-  "description": "Виконайте форк цього репозиторію для виконання домашніх завдань (2-6) Форк створить репозиторій на вашому http://github.com",
+  "description": "rlmgtr hw3 node js http://github.com",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DominikBanaskiewicz/hw03-mongodb.git"
+    "url": "git+https://github.com/rlmgtr/hw03-mongodb.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DominikBanaskiewicz/hw03-mongodb/issues"
+    "url": "https://github.com/rlmgtr/hw03-mongodb/issues"
   },
-  "homepage": "https://github.com/DominikBanaskiewicz/hw03-mongodb#readme"
+  "homepage": "https://github.com/rlmgtr/hw03-mongodb#readme"
 }
